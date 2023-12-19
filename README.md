@@ -59,5 +59,3 @@ If you encounter any issues or require assistance, please file an issue on this 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-When you place this README in your GitHub repository's root directory, it will serve as the first point of information for anyone looking to use your Terraform templates. Make sure to adjust the content to fit the specifics of your repository and organization's guidelines.
